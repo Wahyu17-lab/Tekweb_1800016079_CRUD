@@ -1,0 +1,105 @@
+CRITICAL - 2020-07-15 10:19:05 --> Class 'App\Controllers\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:19:07 --> Class 'App\Controllers\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:35:31 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:35:31 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:35:50 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:36:31 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:36:50 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:42:18 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:42:26 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:45:27 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:46:59 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:47:49 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:50:22 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:51:38 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-15 10:53:31 --> Class 'App\Models\update_M' not found
+#0 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(914): App\Controllers\user->index()
+#1 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\user))
+#2 C:\xampp\htdocs\CRUD\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CRUD\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}

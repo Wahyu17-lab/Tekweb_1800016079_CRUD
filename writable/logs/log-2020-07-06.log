@@ -1,0 +1,183 @@
+CRITICAL - 2020-07-06 09:00:40 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:00:50 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:01:10 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:03:44 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:04:03 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:04:13 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:15:10 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:15:45 --> syntax error, unexpected '{', expecting '('
+#0 C:\xampp\htdocs\CI4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('login')
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(789): CodeIgniter\Router\Router->handle('login')
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(360): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-07-06 09:20:07 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:20:43 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:21:16 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:25:35 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:25:57 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:28:29 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:30:14 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:37:45 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:38:49 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:39:32 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 09:39:45 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:35:43 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:36:54 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:45:49 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:48:14 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:48:24 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-07-06 19:48:51 --> Class 'App\Controllers\M_user' not found
+#0 C:\xampp\htdocs\CI4\system\CodeIgniter.php(914): App\Controllers\Login->login_action()
+#1 C:\xampp\htdocs\CI4\system\CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\CI4\system\CodeIgniter.php(308): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CI4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\CI4\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
